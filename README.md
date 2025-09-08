@@ -32,10 +32,6 @@
   📝 exercícios, 💻 projetos e 🔎 códigos relacionados aos estudos de **HTML**.  
 </p>
 
-<p aling="center">
-<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" alt="HTML5 animado" width="40" height="40"/>
-</p>
-
 ---
 ## 🔧 Tecnologias  
 
