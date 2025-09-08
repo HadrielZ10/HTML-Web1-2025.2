@@ -1,6 +1,6 @@
 # 📚 Atividades de HTML - Desenvolvimento Web 1
 
-** Aluno:** *José Hadriel Miranda dos Santos* 
+ Aluno: *José Hadriel Miranda dos Santos* 
 **Turma S4 - 2025.2**
 
 ---
