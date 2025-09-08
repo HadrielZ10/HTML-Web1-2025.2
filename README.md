@@ -28,7 +28,7 @@
 ## 📚 Sobre o Repositório  
 
 <p align="center">
-  ✨ Este espaço foi criado para organizar e armazenar todos os <br> 
+   Este espaço foi criado para organizar e armazenar todos os <br> 
   📝 exercícios, 💻 projetos e 🔎 códigos relacionados aos estudos de **HTML**.  
 </p>
 
