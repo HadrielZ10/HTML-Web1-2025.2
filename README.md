@@ -8,20 +8,23 @@
 ## 🌐 GitHub Pages - Atividades HTML  
 > 📌 Clique em cada link para visualizar as atividades hospedadas no **GitHub Pages**:
 
-1️⃣ [Atividade 01](https://hadrielz10.github.io/HTML-Web1-atv1/)  
-2️⃣ [Atividade 02](https://hadrielz10.github.io/HTML-Web1-atv2/)  
-3️⃣ [Atividade 03](https://hadrielz10.github.io/HTML-Web1-atv3/)  
-4️⃣ [Atividade 04](https://hadrielz10.github.io/HTML-Web1-atv4/)  
-5️⃣ [Atividade 05](https://hadrielz10.github.io/HTML-Web1-atv5/)  
-6️⃣ [Atividade 06](https://hadrielz10.github.io/HTML-Web1-atv6/)  
-7️⃣ [Atividade 07](https://hadrielz10.github.io/HTML-Web1-atv7/)  
-8️⃣ [Atividade 08](https://hadrielz10.github.io/HTML-Web1-atv8/)  
-9️⃣ [Atividade 09](https://hadrielz10.github.io/HTML-Web1-atv9/)  
-🔟 [Atividade 10](https://hadrielz10.github.io/HTML-Web1-atv10/)  
-1️⃣1️⃣ [Atividade 11](https://hadrielz10.github.io/HTML-Web1-atv11/)  
-1️⃣2️⃣ [Atividade 12](https://hadrielz10.github.io/HTML-Web1-atv12/)  
-1️⃣3️⃣ [Atividade 13](https://hadrielz10.github.io/HTML-Web1-atv13/)  
-1️⃣4️⃣ [Atividade 14](https://hadrielz10.github.io/HTML-Web1-atv14/)  
+| Nº   | Atividade                                              | Descrição                                                                 | Link                                                        |
+|------|--------------------------------------------------------|---------------------------------------------------------------------------|-------------------------------------------------------------|
+| 1️⃣  | [Atividade 01](https://hadrielz10.github.io/HTML-Web1-atv1/)   | `<html>`, `<head>`, `<body>`, `<footer>`                                 | [Acessar](https://hadrielz10.github.io/HTML-Web1-atv1/)     |
+| 2️⃣  | [Atividade 02](https://hadrielz10.github.io/HTML-Web1-atv2/)   | `<main>`, `<section>`, `<aside>`                                         | [Acessar](https://hadrielz10.github.io/HTML-Web1-atv2/)     |
+| 3️⃣  | [Atividade 03](https://hadrielz10.github.io/HTML-Web1-atv3/)   | `<h1>`, ..., `<h6>`                                                       | [Acessar](https://hadrielz10.github.io/HTML-Web1-atv3/)     |
+| 4️⃣  | [Atividade 04](https://hadrielz10.github.io/HTML-Web1-atv4/)   | `<p>`, `<b>`, `<i>`                                                       | [Acessar](https://hadrielz10.github.io/HTML-Web1-atv4/)     |
+| 5️⃣  | [Atividade 05](https://hadrielz10.github.io/HTML-Web1-atv5/)   | `<ol>`, `<li>`                                                            | [Acessar](https://hadrielz10.github.io/HTML-Web1-atv5/)     |
+| 6️⃣  | [Atividade 06](https://hadrielz10.github.io/HTML-Web1-atv6/)   | `<ol>`, `<li>`                                                            | [Acessar](https://hadrielz10.github.io/HTML-Web1-atv6/)     |
+| 7️⃣  | [Atividade 07](https://hadrielz10.github.io/HTML-Web1-atv7/)   | `<ul>`, `<li>`                                                            | [Acessar](https://hadrielz10.github.io/HTML-Web1-atv7/)     |
+| 8️⃣  | [Atividade 08](https://hadrielz10.github.io/HTML-Web1-atv8/)   | `<nav>`, `<a>`                                                            | [Acessar](https://hadrielz10.github.io/HTML-Web1-atv8/)     |
+| 9️⃣  | [Atividade 09](https://hadrielz10.github.io/HTML-Web1-atv9/)   | `<a>`                                                                     | [Acessar](https://hadrielz10.github.io/HTML-Web1-atv9/)     |
+| 🔟   | [Atividade 10](https://hadrielz10.github.io/HTML-Web1-atv10/)  | `<img>`                                                                   | [Acessar](https://hadrielz10.github.io/HTML-Web1-atv10/)    |
+| 1️⃣1️⃣ | [Atividade 11](https://hadrielz10.github.io/HTML-Web1-atv11/) | `<figure>`, `<figcaption>`                                                | [Acessar](https://hadrielz10.github.io/HTML-Web1-atv11/)    |
+| 1️⃣2️⃣ | [Atividade 12](https://hadrielz10.github.io/HTML-Web1-atv12/) | `<table>`, `<thead>`, `<tbody>`, `<tfoot>`, `<tr>`, `<th>`, `<td>`        | [Acessar](https://hadrielz10.github.io/HTML-Web1-atv12/)    |
+| 1️⃣3️⃣ | [Atividade 13](https://hadrielz10.github.io/HTML-Web1-atv13/) | `<form>`, `<label>`, `<input>`, `<textarea>`, `<select>`, `<option>`      | [Acessar](https://hadrielz10.github.io/HTML-Web1-atv13/)    |
+| 1️⃣4️⃣ | [Atividade 14](https://hadrielz10.github.io/HTML-Web1-atv14/) | `<br>`, `<!-- -->`                                                        | [Acessar](https://hadrielz10.github.io/HTML-Web1-atv14/)    |
+
 
 ---
 
