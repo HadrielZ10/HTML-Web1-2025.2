@@ -8,10 +8,10 @@
 ## 🌐 GitHub Pages - Atividades HTML  
 > 📌 Clique em cada link para visualizar as atividades hospedadas no **GitHub Pages**:
 
-1️⃣ [Atividade 01](https://maryaanee.github.io/PAGES-html-atv1/)  
-2️⃣ [Atividade 02](https://maryaanee.github.io/PAGES-html-atv2/)  
-3️⃣ [Atividade 03](COLOQUE-SEU-LINK-AQUI)  
-4️⃣ [Atividade 04](COLOQUE-SEU-LINK-AQUI)  
+1️⃣ [Atividade 01](https://hadrielz10.github.io/HTML-Web1-atv1/)  
+2️⃣ [Atividade 02](https://hadrielz10.github.io/HTML-Web1-atv2/)  
+3️⃣ [Atividade 03](https://hadrielz10.github.io/HTML-Web1-atv3/)  
+4️⃣ [Atividade 04](https://hadrielz10.github.io/HTML-Web1-atv4/)  
 5️⃣ [Atividade 05](COLOQUE-SEU-LINK-AQUI)  
 6️⃣ [Atividade 06](COLOQUE-SEU-LINK-AQUI)  
 7️⃣ [Atividade 07](COLOQUE-SEU-LINK-AQUI)  
