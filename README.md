@@ -20,7 +20,7 @@
 🔟 [Atividade 10](https://hadrielz10.github.io/HTML-Web1-atv10/)  
 1️⃣1️⃣ [Atividade 11](https://hadrielz10.github.io/HTML-Web1-atv11/)  
 1️⃣2️⃣ [Atividade 12](https://hadrielz10.github.io/HTML-Web1-atv12/)  
-1️⃣3️⃣ [Atividade 13](COLOQUE-SEU-LINK-AQUI)  
+1️⃣3️⃣ [Atividade 13](https://hadrielz10.github.io/HTML-Web1-atv13/))  
 1️⃣4️⃣ [Atividade 14](COLOQUE-SEU-LINK-AQUI)  
 
 ---
